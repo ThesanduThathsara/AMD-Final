@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95168a1c-242e-4df4-a8e5-7e771097c416" name="Changes" comment="delete README.md" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Thesandu/Documents/GitHub/AMD-Final" value="3GTInTWlU2r2HE6HM7GOGG8Zd8z" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="16" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ThesanduThathsara&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ThesanduThathsara/AMD-Final.git&quot;,
+    &quot;accountId&quot;: &quot;6e7912a7-f104-4e84-bbc9-2ad879808114&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3803827579337253" />
+      <entry key="MS500" value="2.5724959261735028" />
+      <entry key="S2" value="5.717790262303176" />
+      <entry key="S5" value="7.794112118415236" />
+      <entry key="S10" value="8.788796255332636" />
+      <entry key="S30" value="9.569051085083473" />
+      <entry key="S60" value="9.780903508320462" />
+      <entry key="M2" value="9.889528779643728" />
+      <entry key="M5" value="9.955587720628344" />
+      <entry key="M10" value="9.977756370231141" />
+      <entry key="M15" value="9.98516256810587" />
+      <entry key="M30" value="9.992577123799336" />
+      <entry key="H1" value="9.996506641385656" />
+      <entry key="H2" value="10.023783241147042" />
+      <entry key="H4" value="10.276414868410315" />
+      <entry key="D1" value="12.017145924697022" />
+      <entry key="W1" value="12.834629811171153" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="7.209232248389727E-249" />
+      <entry key="M2" value="8.490719785972049E-125" />
+      <entry key="M5" value="2.3527609499893285E-50" />
+      <entry key="M10" value="1.5338712299242494E-25" />
+      <entry key="M15" value="2.865448458557078E-17" />
+      <entry key="M30" value="5.352988378987086E-9" />
+      <entry key="H1" value="7.316411947797285E-5" />
+      <entry key="H2" value="0.008553602719203928" />
+      <entry key="H4" value="0.09248568926706405" />
+      <entry key="D1" value="0.6724795616880984" />
+      <entry key="W1" value="0.9448932076573417" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3468988501223107" />
+      <entry key="MS500" value="2.555859860576471" />
+      <entry key="S2" value="5.698867123959156" />
+      <entry key="S5" value="7.781795934397666" />
+      <entry key="S10" value="8.781456913560522" />
+      <entry key="S30" value="9.566291260748027" />
+      <entry key="S60" value="9.779480763025553" />
+      <entry key="M2" value="9.88880640384471" />
+      <entry key="M5" value="9.955296090906218" />
+      <entry key="M10" value="9.97761010554411" />
+      <entry key="M15" value="9.98506495811041" />
+      <entry key="M30" value="9.992528273987293" />
+      <entry key="H1" value="9.996555335191605" />
+      <entry key="H2" value="10.032322856207996" />
+      <entry key="H4" value="10.368884905636788" />
+      <entry key="D1" value="12.689612906197116" />
+      <entry key="W1" value="13.779520552582921" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GTInTWlU2r2HE6HM7GOGG8Zd8z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.android.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.android">
+    <configuration name="android" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="android" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.android" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95168a1c-242e-4df4-a8e5-7e771097c416" name="Changes" comment="" />
+      <created>1783989299070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783989299070</updated>
+      <workItem from="1783989300193" duration="2219000" />
+      <workItem from="1784041238824" duration="664000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1783989354381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783989354381</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete README.md">
+      <option name="closed" value="true" />
+      <created>1783989457803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783989457803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="delete README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete README.md" />
+  </component>
+</project>
